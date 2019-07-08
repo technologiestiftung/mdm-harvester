@@ -1,0 +1,23 @@
+{
+  "name": "mdm-harvester",
+  "version": "1.0.0",
+  "description": "Receiving data from the mdm data portal and storing them on the server for further analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technologiestiftung/mdm-harvester.git"
+  },
+  "author": "seb_meier",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/technologiestiftung/mdm-harvester/issues"
+  },
+  "homepage": "https://github.com/technologiestiftung/mdm-harvester#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
+}
